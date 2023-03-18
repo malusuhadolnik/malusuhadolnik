@@ -4,12 +4,11 @@
 
 - :computer: &nbsp; Estudante de Desenvolvimento Web na Trybe, atualmente cursando o módulo Back-End;
 - :dna: &nbsp; Estou em transição de carreira! Sou Bacharel em Ciências Biológicas, com Mestrado e Doutorado em Genética pela Universidade Federal de Minas Gerais;
-- :dancing_women: &nbsp; Adoraria contribuir para projetos de Ciências da Vida, unindo meu amor e conhecimento por Biologia com meus recém adquiridos superpoderes de Desenvolvedora Web!
 
 <h3> Skills </h3>
 
-- :unlock: &nbsp; Javascript, HTML5, CSS, React, Jest, Redux, Context API
-- :closed_lock_with_key: &nbsp; SQL, Node.js, MongoDB, Python
+- :unlock: &nbsp; Javascript, HTML5, CSS, React, Jest, Redux, Context API, SQL, Node.js
+- :closed_lock_with_key: &nbsp; Object-oriented programming, MongoDB, Python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malusuhadolnik&show_icons=true&count_private=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malusuhadolnik)](https://github.com/anuraghazra/github-readme-stats)
