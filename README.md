@@ -7,8 +7,10 @@
 
 <h3> Skills </h3>
 
-- :unlock: &nbsp; Javascript, HTML5, CSS, React, Jest, Redux, Context API, SQL, Node.js
-- :closed_lock_with_key: &nbsp; Typescript, MongoDB, Python
+- :unlock: &nbsp; Javascript, HTML5, CSS, React, Jest, Redux, Context API, SQL, Node.js,ORM, Typescript
+- :closed_lock_with_key: &nbsp; MongoDB, Python, Programação Orientada a Objetos, SOLID
+
+Email para contato: maria.luiza.suhadolnik@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malusuhadolnik&show_icons=true&count_private=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malusuhadolnik)](https://github.com/anuraghazra/github-readme-stats)
