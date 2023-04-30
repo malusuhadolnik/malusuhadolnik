@@ -7,8 +7,8 @@
 
 <h3> Skills </h3>
 
-- :unlock: &nbsp; Javascript, HTML5, CSS, React, Jest, Redux, Context API, SQL, Node.js,ORM, Typescript
-- :closed_lock_with_key: &nbsp; MongoDB, Python, Programação Orientada a Objetos, SOLID
+- :unlock: &nbsp; Javascript, HTML5, CSS, React, Jest, Redux, Context API, SQL, Node.js,ORM, Typescript, MongoDB.
+- :closed_lock_with_key: &nbsp; Python, Programação Orientada a Objetos, SOLID
 
 :mailbox: Email para contato: maria.luiza.suhadolnik@gmail.com
 
