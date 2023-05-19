@@ -2,7 +2,7 @@
 
 <h3> :nerd_face: &nbsp;Um breve resumo sobre mim </h3>
 
-- :computer: &nbsp; Estudante de Desenvolvimento Web na Trybe, atualmente cursando o módulo Back-End;
+- :computer: &nbsp; Estudante de Desenvolvimento Web na Trybe, atualmente cursando o último módulo - Ciência da Computação;
 - :dna: &nbsp; Do código genético ao código fonte: estou em transição de carreira! Sou Bacharel em Ciências Biológicas, com Mestrado e Doutorado em Genética pela Universidade Federal de Minas Gerais;
 
 <h3> Skills </h3>
